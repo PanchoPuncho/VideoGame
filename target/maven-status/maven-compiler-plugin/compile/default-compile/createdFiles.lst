@@ -1,0 +1,17 @@
+com/local/app/Weapon$WeaponType.class
+com/local/app/Equipment$ArmorType.class
+com/local/app/Checkers.class
+com/local/app/App.class
+com/local/app/Checkers$CheckersData.class
+com/local/app/Checkers$Applet.class
+com/local/app/Squad.class
+com/local/app/Weapon.class
+com/local/app/Battle.class
+com/local/app/App$StatType.class
+com/local/app/Checkers$CheckersMove.class
+com/local/app/Battle$Board.class
+com/local/app/Soldier.class
+com/local/app/Item.class
+com/local/app/Checkers$Board.class
+com/local/app/Battle$Applet.class
+com/local/app/Equipment.class
